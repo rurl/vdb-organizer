@@ -1,4 +1,4 @@
-# 🚀 VDB Organizer v0.1.0 — Initial Release
+# 🚀 VDB Organizer
 
 We are excited to introduce the first public release of **VDB Organizer** (Vplayer) — an all-in-one, privacy-focused media organizer, player, and creative toolkit designed for Windows. 
 
