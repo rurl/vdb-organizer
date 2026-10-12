@@ -38,6 +38,6 @@ Built with **Tauri v2 + Rust** and a modern **React/TypeScript** interface, VDB 
 
 ### 📦 Installation
 
-1. Download the Windows installer (`vdb-organizer_0.1.0_x64.exe`) from the assets below.
+1. Download the Windows installer (`vdb-organizer.exe`) from the assets below.
 2. Run the installer and launch **VDB Organizer**.
 3. Press <kbd>ESC</kbd> or open the in-app **Quick Guide** anytime for keyboard shortcuts and workflow tips.
